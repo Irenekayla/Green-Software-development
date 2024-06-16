@@ -4,8 +4,6 @@ Step 4 in Green Software Development is optimizing testing and the deployment pr
 Green DevOps is a concept that combines the principles of DevOps with a focus on sustainability, incorporating practices that minimise the environmental impact of software development and deployment processes.
 
 Green Testing is a concept that focuses on minimising the environmental impact of testing activities. This includes practices such as reducing test case redundancy, optimising test execution sequences, and prioritising energy-efficient testing approaches
-![picture](./images/pic1.PNG)
-
 
 ## BENEFITS
 - Reduced energy consumption
@@ -22,7 +20,8 @@ Green Testing is a concept that focuses on minimising the environmental impact o
 6. Use automated testing: Automation helps in speeding up test cycle and minimize the energy and resource consumption associated with manual testing efforts.
 7. Use managed Device farm: AWS Device Farm is an application testing service that you can use to test and interact with your Android, iOS, and web apps on real, physical phones and tablets. Device Farm can also be used to execute Selenium tests on different desktop browsers and browser versions.
 8. Manage test artifacts: Testing artifacts could include test cases, test scripts, test data and test outputs. Once the testing is over, try to delete data and files (input, output, logs, test evidences).
-
+   
+![picture](./images/pic1.PNG)
 ## Creating a Green CI/CD Pipeline: A Step-by-Step Guide
 
 Step 1: Assess Your Current CI/CD Pipeline
@@ -55,7 +54,7 @@ Step 6: Optimize CI/CD Pipeline Efficiency
 - Optimize pipeline execution times to reduce energy consumption
 - Leverage caching, parallel processing, and other efficiency techniques
 
-
+![picture](./images/test.PNG)
 ## Energy-Efficient Testing: A Step-by-Step Guide
 Step 1: Identify Test Environment Candidates 
 - Analyze test environments to identify opportunities for energy efficiency improvements
