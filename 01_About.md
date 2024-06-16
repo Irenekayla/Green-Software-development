@@ -18,10 +18,24 @@ Green software development is all about creating software that’s not just smar
 - Eco-Friendly Design: Picture building a house with solar panels and energy-efficient appliances. In software, this means designing apps that run well on energy-efficient hardware and don’t require constant updates that eat up resources.
 
 ### **The 8 Principles of Green Software Engineering:**
-<img src="./images/pic2.png" alt="Green Web Developmen" width="450">
+<img src="./images/pic2.png" alt="Green Web Developmen" width="400">
 
 ## **1.2 What is the environmental impact of traditional software practices**
 
+1.High Energy Consumption:
+
+- Data centers and computing devices consume substantial amounts of energy, primarily from fossil fuels.
+- This contributes significantly to greenhouse gas emissions and climate change.
+  
+2.Carbon Emissions:
+
+- Operations like data centers and device manufacturing release carbon dioxide (CO2) and other pollutants.
+- emissions worsen environmental degradation and global warming.
+  
+3.Electronic Waste Generation:
+
+- Software updates often lead to device obsolescence, resulting in large quantities of electronic waste (e-waste).
+- Improper disposal of e-waste poses environmental and health risks.
 
 
 
