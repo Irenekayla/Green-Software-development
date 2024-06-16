@@ -18,7 +18,9 @@ While implementing improvements, identify metrics that can help to quantify the 
 
 **Monitor Code size & Efficiency:**
 
-Review your code for code smells (unused code block that can be removed, duplicate code blocks that can be refactored to common function, unused variable declarations that can be removed, memory leaks, loops, switch statements etc.) and remove them to reduce the overall execution for each request which invokes that code. Use services like Amazon CodeGuru Reviewer that performs code reviews and provide actionable recommendations by analyzing runtime data. Amazon CodeGuru Profiler can help to improve code efficiency.
+Review your code for code smells (unused code block that can be removed, duplicate code blocks that can be refactored to common function, unused variable declarations that can be removed, memory leaks, loops, switch statements etc.) and remove them to reduce the overall execution for each request which invokes that code. 
+
+Use services like Amazon CodeGuru Reviewer that performs code reviews and provide actionable recommendations by analyzing runtime data. Amazon CodeGuru Profiler can help to improve code efficiency.
 
 **Define Improvement process:**
 
