@@ -21,21 +21,32 @@ Green software development is all about creating software that’s not just smar
 <img src="./images/pic2.png" alt="Green Web Developmen" width="400">
 
 ## **1.2 What is the environmental impact of traditional software practices**
+Traditional software practices contribute to environmental degradation through high energy consumption in data centers and devices, significant carbon emissions, and the generation of electronic waste from frequent device turnover due to software updates.
 
-1.High Energy Consumption:
+### **1.2.1 Environmental Impact Categories :**
+
+1. High Energy Consumption:
 
 - Data centers and computing devices consume substantial amounts of energy, primarily from fossil fuels.
 - This contributes significantly to greenhouse gas emissions and climate change.
   
-2.Carbon Emissions:
+2. Carbon Emissions:
 
 - Operations like data centers and device manufacturing release carbon dioxide (CO2) and other pollutants.
 - emissions worsen environmental degradation and global warming.
   
-3.Electronic Waste Generation:
+3. Electronic Waste Generation:
 
 - Software updates often lead to device obsolescence, resulting in large quantities of electronic waste (e-waste).
 - Improper disposal of e-waste poses environmental and health risks.
+
+### **1.2.2 Notable Environmental Case Studies :**
+
+1. In 2018, video streaming generated as much greenhouse gas emissions as the whole of Spain.
+
+2. YouTube views of the song “Despacito” consumed the same amount of electricity as five African countries in one year.
+
+3. Training a single natural language processing model produces as much CO2 as 315 return flights from New York to San Francisco.
 
 
 
