@@ -4,9 +4,9 @@ Green DevOps is a concept that combines the principles of DevOps with a focus on
 
 
 ## BENEFITS
-Reduced energy consumption
-Improved resource efficiency
-Enhanced software quality
+- Reduced energy consumption
+- Improved resource efficiency
+- Enhanced software quality
 
 ## STRATEGIES:
 1. Incremental Builds: Only rebuild what's necessary, rather than rebuilding the entire project.
