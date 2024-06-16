@@ -4,7 +4,7 @@ Welcome to our guide on Green Software Development. This how to guide provides c
 
 The key purpose of this guide is to:
 
-## 1. Educate and Raise Awareness**
+## 1. Educate and Raise Awareness
 
 **Understanding Green Software:**
 
@@ -29,8 +29,6 @@ It provides recommendations on various tools that can be used to monitor and opt
 
 
 # Learn all about Green Software Development
-
-
 
 
 
