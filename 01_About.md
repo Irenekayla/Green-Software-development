@@ -18,6 +18,11 @@ Green software development is all about creating software that’s not just smar
 - Eco-Friendly Design: Picture building a house with solar panels and energy-efficient appliances. In software, this means designing apps that run well on energy-efficient hardware and don’t require constant updates that eat up resources.
 
 ### **The 8 Principles of Green Software Engineering:**
+<img src="./images/pic2.png" alt="Green Web Developmen" width="450">
+
+## **1.2 What is the environmental impact of traditional software practices**
+
+
 
 
 
