@@ -41,7 +41,7 @@ It provides recommendations on various tools that can be used to monitor and opt
 
 
 
-**Lastly, a hearty thanks to our authors **
+**Lastly, a hearty thanks to our authors
 [ssh23](https://github.com/Irenekayla/Green-Software-development/commits?author=ssh23)
 [meenaksheebehera](https://github.com/Irenekayla/Green-Software-development/commits?author=meenaksheebehera)
-[Arham499](https://github.com/Irenekayla/Green-Software-development/commits?author=Arham499)
+[Arham499](https://github.com/Irenekayla/Green-Software-development/commits?author=Arham499)**
