@@ -31,12 +31,12 @@ It provides recommendations on various tools that can be used to monitor and opt
 # Learn all about Green Software Development
 |Step #|Step Description|Objective|Link|
 | :- | :- | :- | :- |
-|1|About Green Software Development|Learn the What, How and Why of Green Software Development|01\_About.md|
-|2|Accessing Current Energy Performance|<p>Measuring Current Energy Consumption</p><p>- Energy Profiling</p><p>- Measuring Carbon Footprint</p><p>- Evaluate Resource Usage</p><p>- Documenting findings</p>|02\_BaseLineAssessment.md|
-|3|Optimizing Software Development|<p>- Algorithm Optimization</p><p>- Data Storage Optimization</p><p>&emsp;- Efficient Data Structure</p><p>&emsp;- Compression Techniques</p><p>- Code Optimization</p><p>&emsp;- Efficient Coding Basics</p><p>&emsp;- Minimizing resource usage</p><p>&emsp;- Leveraging Green Libraries & Frameworks</p>|03\_OptimizeSoftwareDevelopment.md|
-|4|Optimizing Testing & Deployment|<p>- Green Testing Principles</p><p>- Green CI/CD Pipeline</p>|04\_CICD.md|
-|5|Optimizing Application Maintenance|Establish a continuous loop of green software practices|05\_Maintenance.md|
-|6|Future Scope|Understand the future of green software development|Awareness&FutureScope.md|
+|1|About Green Software Development|Learn the What, How and Why of Green Software Development|[01\_About.md](01_About.md)|
+|2|Accessing Current Energy Performance|<p>Measuring Current Energy Consumption</p><p>- Energy Profiling</p><p>- Measuring Carbon Footprint</p><p>- Evaluate Resource Usage</p><p>- Documenting findings</p>|[02\_BaseLineAssessment.md](02_BaseLineAssessment.md)|
+|3|Optimizing Software Development|<p>- Algorithm Optimization</p><p>- Data Storage Optimization</p><p>&emsp;- Efficient Data Structure</p><p>&emsp;- Compression Techniques</p><p>- Code Optimization</p><p>&emsp;- Efficient Coding Basics</p><p>&emsp;- Minimizing resource usage</p><p>&emsp;- Leveraging Green Libraries & Frameworks</p>|[03\_OptimizeSoftwareDevelopment.md](03_OptimizeSoftwareDevelopment.md)|
+|4|Optimizing Testing & Deployment|<p>- Green Testing Principles</p><p>- Green CI/CD Pipeline</p>|[04\_CICD.md](04_CICD.md)|
+|5|Optimizing Application Maintenance|Establish a continuous loop of green software practices|[05\_Maintenance.md](05_Maintenance.md)|
+|6|Future Scope|Understand the future of green software development|[Awareness&FutureScope.md](Awareness&FutureScope.md)|
 
 
 
