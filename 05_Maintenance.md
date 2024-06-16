@@ -1,7 +1,17 @@
-Keep your workload up to date: Keeping your operating systems, libraries, and applications Up-to-date improves workload efficiency and enables easier adoption of more efficient technologies. Up-to-date software may also include features that help measure the sustainability impact of your workload more accurately.
+Step 5 in Green Software Development is optimizing application maintenance
 
-Configure Observability: Periodically review your workload against the sustainability best practices to identify targets for improvements. Use AWS Cost and Usage Reports (CUR) and AWS Customer Carbon Footprint Tool (CCFT) to identify hot spots that you can target to improve resource utilization and/or reduce the resource required to complete a unit of work. While implementing improvements, identify metrics that can help to quantify the impact of improvement on associated resources (compute, storage, network resources etc.) provisioned for workload being reviewed. In scenarios when you don’t have direct metrics to help track specific improvement or it can be complex and costly to setup, you can rely on Proxy metrics to monitor and analyze the efficiency of a system or workload.
+**Keep your workload up to date:**
 
-Monitor Code size & Efficiency: Review your code for code smells (unused code block that can be removed, duplicate code blocks that can be refactored to common function, unused variable declarations that can be removed, memory leaks, loops, switch statements etc.) and remove them to reduce the overall execution for each request which invokes that code. Use services like Amazon CodeGuru Reviewer that performs code reviews and provide actionable recommendations by analyzing runtime data. Amazon CodeGuru Profiler can help to improve code efficiency.
+Keeping your operating systems, libraries, and applications Up-to-date improves workload efficiency and enables easier adoption of more efficient technologies. Up-to-date software may also include features that help measure the sustainability impact of your workload more accurately.
 
-Define Improvement process: Sustainability improvement is a cyclic process and not a one time journey. Use Well-Architected for sustainability to identify area of improvement, define an improvement plan, implement and test improvement, and if successful plan for sharing your learnings with other project teams. Refer to Improvement process for more details.
+**Configure Observability:**
+
+Periodically review your workload against the sustainability best practices to identify targets for improvements. Use AWS Cost and Usage Reports (CUR) and AWS Customer Carbon Footprint Tool (CCFT) to identify hot spots that you can target to improve resource utilization and/or reduce the resource required to complete a unit of work. While implementing improvements, identify metrics that can help to quantify the impact of improvement on associated resources (compute, storage, network resources etc.) provisioned for workload being reviewed. In scenarios when you don’t have direct metrics to help track specific improvement or it can be complex and costly to setup, you can rely on Proxy metrics to monitor and analyze the efficiency of a system or workload.
+
+**Monitor Code size & Efficiency:**
+
+Review your code for code smells (unused code block that can be removed, duplicate code blocks that can be refactored to common function, unused variable declarations that can be removed, memory leaks, loops, switch statements etc.) and remove them to reduce the overall execution for each request which invokes that code. Use services like Amazon CodeGuru Reviewer that performs code reviews and provide actionable recommendations by analyzing runtime data. Amazon CodeGuru Profiler can help to improve code efficiency.
+
+**Define Improvement process:**
+
+Sustainability improvement is a cyclic process and not a one time journey. Use Well-Architected for sustainability to identify area of improvement, define an improvement plan, implement and test improvement, and if successful plan for sharing your learnings with other project teams. Refer to Improvement process for more details.
