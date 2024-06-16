@@ -20,7 +20,7 @@ Green software development is all about creating software that’s not just smar
 ### **The 8 Principles of Green Software Engineering:**
 <img src="./images/pic2.png" alt="Green Web Developmen" width="400">
 
-## **1.2 What is the environmental impact of traditional software practices**
+## **1.2 What is the environmental impact of traditional software practices ?**
 Traditional software practices contribute to environmental degradation through high energy consumption in data centers and devices, significant carbon emissions, and the generation of electronic waste from frequent device turnover due to software updates.
 
 ### **1.2.1 Environmental Impact Categories :**
