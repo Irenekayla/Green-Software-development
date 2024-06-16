@@ -5,6 +5,8 @@ Step 1: Understanding Green Software Development
 - What is green software development?
 - What is the environmental impact of traditional software practices?
 - What is the goal of green software development?
+- What is Sustainable Software Development Life Cycle (S-SDLC)?
+
 
 ## **1.1 What Is Green Software Development?**
 
@@ -68,6 +70,21 @@ In addition to the environmental benefits, there is a strong business case for g
 Low resource usage. Green systems use fewer resources, which translates into long-term cost savings.
 
 - Brand resilience. Consumers today care about the integrity and social responsibility of their service providers. By raising awareness about environmental issues and reducing your carbon footprint through green software development, you can foster brand loyalty and resilience.
+
+## 1.5 What is Sustainable Software Development Life Cycle (S-SDLC)?
+
+The goal of sustainability in software development life cycle would focus on ensuring responsible application design, development and maintenance keeping energy consumption in mind. You should focus on increasing utilization for spun-up resources and reducing/removing idle resources. Sustainable Software Development Life Cycle (S-SDLC) is not so much about doing different things as it is about considering sustainability in doing things.
+
+These are the key tenants and principles that are considered in S-SDLC.
+
+- Share learning experiences and create a sustainability mindset across SDLC
+- Leverage automation capabilities wherever possible
+- Establish measurements to gain insights and create learning opportunities
+- Makes sustainability a continuous focus including all stakeholders in the sustainability considerations
+- Sustainability is everyone’s responsibility
+- Focus on increasing utilization and minimizing waste
+- Use efficient resources for your workload and focus on business differentiators while offloading undifferentiated heavy lifting to cloud
+
  
 
 
