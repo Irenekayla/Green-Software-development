@@ -63,8 +63,39 @@ Its main advantage is the ability to estimate energy consumption in devices with
 Run PowerTOP with root privileges
 sudo powertop
 
-Observe energy usage data for various processes
-Follow recommendations to reduce power consumption
+**Observe energy usage data for various processes**
+____________________________________________________________________
+ *  *  *   Overview of Software Power Consumers   *  *  *
+
+Usage;Wakeups/s;GPU ops/s;Disk IO/s;GFX Wakeups/s;Category;Description;PW Estimate
+172.9 us/s; 24.9;;;;Timer;tick_sched_timer; 98.5 mW
+296.0 us/s; 22.9;;;;Process;[PID 313728] /usr/bin/containerd ; 90.8 mW
+ 96.5 us/s; 16.2;;;;Process;[PID 11] [rcu_sched]; 64.2 mW
+225.5 us/s; 14.1;;;;Process;[PID 313736] /usr/bin/containerd ; 56.0 mW
+409.9 us/s; 12.3;;;;Process;[PID 361909] /usr/bin/vmtoolsd ; 49.4 mW
+232.0 us/s; 12.1;;;;Process;[PID 313737] /usr/bin/containerd ; 48.3 mW
+ 24.5 us/s;  4.9;;;;kWork;fb_flashcursor; 19.4 mW
+ 21.4 us/s;  4.8;;;;kWork;vmw_fence_work_func; 19.0 mW
+156.0 us/s;  3.9;;;;kWork;psi_avgs_work; 15.8 mW
+309.8 us/s;  3.4;;;;kWork;vmw_fb_dirty_flush; 13.9 mW
+ 29.4 us/s;  3.3;;;;kWork;gc_worker; 13.1 mW
+311.6 us/s;  1.7;;;;Timer;hrtimer_wakeup; 7.19 mW
+ 23.8 us/s;  1.2;;;;Interrupt;[17] ioc0; 4.97 mW
+ 39.7 us/s;  1.0;;;;Process;[PID 811] /usr/sbin/ntpd -p /var/run/ntpd.pid -g -u 113:117 ; 4.20 mW
+ 15.5 us/s;  1.0;;;;Timer;watchdog_timer_fn; 3.97 mW
+  4.4 us/s;  1.0;;;;kWork;vmballoon_work; 3.95 mW
+  6.0 us/s;  0.9;;;;kWork;mpt_fault_reset_work; 3.76 mW
+ 15.8 us/s;  0.8;;;;kWork;vmstat_shepherd; 3.38 mW
+  1.1 ms/s; 0.15;;;;Process;[PID 377852] powertop --csv=output.csv -t 20 ; 2.33 mW
+[...]
+
+In the file, under the table entitled Overview of Software Power Consumers, there is a line with the following:
+```The system baseline power is estimated at:  5.43  W;```
+
+**Calculate power consumption**
+This means that, on average, our processor and main memory leveraged 5.43W of power during the 20 seconds of execution. As mentioned before, this is not the energy consumption (yet!). The total energy consumption in this measurement is computed by multiplying the average power by the duration of the measurement:
+
+E=P.Δt=5.43W×20s=108.6J
 
 ## **2.2 Measure Carbon Footprint**
 
