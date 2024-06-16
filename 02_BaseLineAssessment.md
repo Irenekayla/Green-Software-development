@@ -46,6 +46,7 @@ example.exe     |       15.2    |        3.1     |         4.8       |       23.
 
 **Description:**
 PowerTOP is a Linux-based tool that helps diagnose issues with power consumption and provides suggestions for improving power efficiency.
+Its main advantage is the ability to estimate energy consumption in devices with an AMD processor. However, PowerTOP use cases go beyond simple energy consumption measurements. For example, it provides an interactive mode that allows users to fine-tune power management settings in their Linux system. 
 
 **Features:**
 - Monitors system-wide and per-application energy consumption
@@ -54,8 +55,9 @@ PowerTOP is a Linux-based tool that helps diagnose issues with power consumption
 
 **Installation:**
 - Install PowerTOP using your Linux package manager:
-sudo apt-get install powertop  # For Debian/Ubuntu
-sudo yum install powertop     # For CentOS/RHEL
+```sudo apt-get install powertop```  # For Debian/Ubuntu
+```sudo yum install powertop```     # For CentOS/RHEL
+```sudo powertop --csv=output.csv -t 20```
 
 **Usage:**
 Run PowerTOP with root privileges
