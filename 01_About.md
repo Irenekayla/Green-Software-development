@@ -84,6 +84,8 @@ These are the key tenants and principles that are considered in S-SDLC.
 - Sustainability is everyone’s responsibility
 - Focus on increasing utilization and minimizing waste
 - Use efficient resources for your workload and focus on business differentiators while offloading undifferentiated heavy lifting to cloud
+  
+<img src="./images/s-sdlc.png" alt="Green Web Developmen" width="800">
 
  
 
