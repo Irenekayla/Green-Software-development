@@ -1,12 +1,20 @@
 Step 5 in Green Software Development is optimizing application maintenance
 
+# Overview
+
+Optimizing application maintenance involves continuous monitoring, updating, and refining software to sustain its energy efficiency and reduce its environmental impact.
+
 **Keep your workload up to date:**
 
 Keeping your operating systems, libraries, and applications Up-to-date improves workload efficiency and enables easier adoption of more efficient technologies. Up-to-date software may also include features that help measure the sustainability impact of your workload more accurately.
 
-**Configure Observability:**
+**Regular Performance Audits:**
 
-Periodically review your workload against the sustainability best practices to identify targets for improvements. Use AWS Cost and Usage Reports (CUR) and AWS Customer Carbon Footprint Tool (CCFT) to identify hot spots that you can target to improve resource utilization and/or reduce the resource required to complete a unit of work. While implementing improvements, identify metrics that can help to quantify the impact of improvement on associated resources (compute, storage, network resources etc.) provisioned for workload being reviewed. In scenarios when you don’t have direct metrics to help track specific improvement or it can be complex and costly to setup, you can rely on Proxy metrics to monitor and analyze the efficiency of a system or workload.
+Periodically review your workload against the sustainability best practices to identify targets for improvements. 
+
+Use AWS Cost and Usage Reports (CUR) and AWS Customer Carbon Footprint Tool (CCFT) to identify hot spots that you can target to improve resource utilization and/or reduce the resource required to complete a unit of work. 
+
+While implementing improvements, identify metrics that can help to quantify the impact of improvement on associated resources (compute, storage, network resources etc.) provisioned for workload being reviewed. In scenarios when you don’t have direct metrics to help track specific improvement or it can be complex and costly to setup, you can rely on Proxy metrics to monitor and analyze the efficiency of a system or workload.
 
 **Monitor Code size & Efficiency:**
 
