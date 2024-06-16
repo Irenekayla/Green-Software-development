@@ -2,6 +2,7 @@ Step 4 in Green Software Development is optimizing testing and the deployment pr
 
 ## GREEN DEVOPS AND TESTING:
 Green DevOps is a concept that combines the principles of DevOps with a focus on sustainability, incorporating practices that minimise the environmental impact of software development and deployment processes.
+
 Green Testing is a concept that focuses on minimising the environmental impact of testing activities. This includes practices such as reducing test case redundancy, optimising test execution sequences, and prioritising energy-efficient testing approaches
 ![picture](./images/pic1.PNG)
 
