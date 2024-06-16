@@ -1,4 +1,4 @@
-Step 2 in green software development is understanding the current environmental impact of your software.
+Step 2 in Green Software Development is understanding the current environmental impact of your software.
 
 # **Overview**
 
