@@ -11,7 +11,7 @@ Green or sustainable software is developed and run in a way that ensures maximum
 
 ### **Green software engineering is a relatively new discipline that brings together:**
 
--Software development practices and architecture
--Hardware and data center design
--Electricity markets
--Climate science
+- Software development practices and architecture
+- Hardware and data center design
+- Electricity markets
+- Climate science
