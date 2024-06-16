@@ -88,6 +88,7 @@ In the file, under the table entitled Overview of Software Power Consumers, ther
 ```The system baseline power is estimated at:  5.43  W;```
 
 **Calculate power consumption**
+
 This means that, on average, our processor and main memory leveraged 5.43W of power during the 20 seconds of execution. This is not the energy consumption (yet!). 
 
 The total energy consumption in this measurement is computed by multiplying the average power by the duration of the measurement:
